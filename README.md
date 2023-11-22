@@ -30,6 +30,7 @@ This assignment covers the following topics and algorithms:
 9. Viterbi Algorithm
 10. Naive Bayes Classification from Scratch
 11. Logistic Regression from Scratch with Manually Defined Error and Gradient Descent Method
+12. TF-IDF
 
 Each of these topics challenges us to apply NLP concepts and algorithms to solve specific problems related to text analysis.
 
