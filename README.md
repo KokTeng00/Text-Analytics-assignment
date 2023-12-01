@@ -51,9 +51,3 @@ Feel free to modify and expand upon the provided code to further enhance your un
 
 This home assignment was contributed by few members as provided their GitHub account: properpin, 2damlee, hyekang00, KokTeng00.
 
----
-
-**Note:** This README provides a general structure for your assignment repository. Ensure that you update it with specific details, code examples, and explanations for each topic as required. 
-
-Confidence Level: High
-Source: General knowledge of creating README.md files for GitHub repositories.
