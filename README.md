@@ -1,5 +1,3 @@
-# home-assignment (Text Analytics)
-
 # Text Analytics Course Assignment
 
 This repository contains the home assignment for our Text Analytics course, designed to test our knowledge of Natural Language Processing (NLP) in Python. The assignment covers various topics and algorithms related to text analysis and NLP.
